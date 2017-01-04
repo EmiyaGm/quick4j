@@ -10,12 +10,12 @@ String basePath = request.getScheme() + "://" + request.getServerName() + ":" + 
         <base href="<%=basePath%>">
         <meta charset="UTF-8">
         <title></title>
-        <link rel="stylesheet" type="text/css" href="assets/plugins/bootstrap/css/bootstrap.css"/>
+        <link rel="stylesheet" type="text/css" href="assets/global/plugins/bootstrap/css/bootstrap.css"/>
     </head>
     <body>
 
-        <script src="assets/plugins/jquery/jquery-1.11.1.js" type="text/javascript" charset="utf-8"></script>
-        <script src="assets/plugins/bootstrap/js/bootstrap.js" type="text/javascript" charset="utf-8"></script>
+        <script src="assets/global/plugins/jquery/jquery-1.11.1.js" type="text/javascript" charset="utf-8"></script>
+        <script src="assets/global/plugins/bootstrap/js/bootstrap.js" type="text/javascript" charset="utf-8"></script>
         <script src="" type="text/javascript" charset="utf-8"></script>
     </body>
 </html>

@@ -6,6 +6,7 @@
 /target
 /work
 /src/main/webapp/.#webclasspath
-
+/src/main/webapp/images
+/src/main/webapp/global/plugins
 .idea
 quick4j.iml
